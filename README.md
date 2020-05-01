@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/partkeepr/PartKeepr) 
+
 [![PartKeepr](https://partkeepr.org/images/partkeepr-banner.png)](https://www.partkeepr.org)
 
 [![JSON-LD enabled](http://json-ld.org/images/json-ld-button-88.png)](http://json-ld.org)
