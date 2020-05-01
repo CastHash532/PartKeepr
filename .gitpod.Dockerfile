@@ -9,6 +9,6 @@ USER root
 #
 # More information: https://www.gitpod.io/docs/config-docker/
 
-RUN sudo apt-get -q update && apt-get install php7.4-xml
+RUN sudo apt-get -q update && sudo apt-get install -y php7.4-gd php7.4-intl php7.4-xsl php7.4-mbstring
 
 USER gitpod
