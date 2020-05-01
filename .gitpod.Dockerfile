@@ -1,6 +1,6 @@
 FROM gitpod/workspace-mysql
                     
-USER gitpod
+USER root
 
 # Install custom tools, runtime, etc. using apt-get
 # For example, the command below would install "bastet" - a command line tetris clone:
@@ -10,3 +10,5 @@ USER gitpod
 # More information: https://www.gitpod.io/docs/config-docker/
 
 RUN apt-get install php7.2-xml
+
+USER gitpod
